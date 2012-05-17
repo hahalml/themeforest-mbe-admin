@@ -3,7 +3,7 @@
 }
 body {
 	font-size: 12px;
-	font-family: arial;
+	font-family: helvetica, arial;
 	margin: 0;
 	padding: 0;
 	background: #333333 url('../img/body-bck-3.gif');
